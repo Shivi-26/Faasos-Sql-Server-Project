@@ -3,11 +3,11 @@ SQL Data Analysis Report — Roll Orders Dataset
 Tools Used: SQL Server, SQL Queries
 
 Dataset Components:
-- Customer Orders (`customer_order`)
-- Rolls (`rolls`)
-- Roll Recipes (`rolls_recipes`)
-- Ingredients (`ingredients`)
-- Drivers (`drivers`)
+- Customer Orders
+- Rolls 
+- Roll Recipes 
+- Ingredients 
+- Drivers 
 
 Objective
 To extract meaningful insights from roll-based order data using SQL queries in SQL Server. The analysis includes:
